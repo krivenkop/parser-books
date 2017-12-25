@@ -1,0 +1,708 @@
+[
+    {
+        "link": "https://www.livelib.ru/book/1002326231-garri-potter-i-uznik-azkabana-dzh-k-rouling",
+        "name": "Гарри Поттер и узник Азкабана",
+        "shortAuthor": "Дж. К. Роулинг",
+        "linkAuthor": "https://www.livelib.ru/author/179700-dzhoan-rouling",
+        "imgPath": "https://i.livelib.ru/boocover/1002326231/140/551e/Dzh._K._Rouling__Garri_Potter_i_uznik_Azkabana.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002281151-zelenaya-milya-stiven-king",
+        "name": "Зеленая миля",
+        "shortAuthor": "Стивен Кинг",
+        "linkAuthor": "https://www.livelib.ru/author/48-stiven-king",
+        "imgPath": "https://i.livelib.ru/boocover/1002281151/140/60e6/Stiven_King__Zelenaya_milya.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000281109-unesennye-vetrom-margaret-mitchell",
+        "name": "Унесенные ветром",
+        "shortAuthor": "Маргарет Митчелл",
+        "linkAuthor": "https://www.livelib.ru/author/3828-margaret-mitchell",
+        "imgPath": "https://i.livelib.ru/boocover/1000281109/140/914a/Margaret_Mitchell__Unesennye_vetrom.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001569364-prisluga-ketrin-stokett",
+        "name": "Прислуга",
+        "shortAuthor": "Кэтрин Стокетт",
+        "linkAuthor": "https://www.livelib.ru/author/308194-ketrin-stokett",
+        "imgPath": "https://j.livelib.ru/boocover/1001569364/140/dfe4/Ketrin_Stokett__Prisluga.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002217446-graf-montekristo-aleksandr-dyuma",
+        "name": "Граф Монте-Кристо",
+        "shortAuthor": "Александр Дюма",
+        "linkAuthor": "https://www.livelib.ru/author/55-aleksandr-dyuma",
+        "imgPath": "https://i.livelib.ru/boocover/1002217446/140/518c/Aleksandr_Dyuma__Graf_MonteKristo.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002003682-burya-mechej-dzhordzh-r-r-martin",
+        "name": "Буря мечей",
+        "shortAuthor": "Джордж Р. Р. Мартин",
+        "linkAuthor": "https://www.livelib.ru/author/5980-dzhordzh-martin",
+        "imgPath": "https://j.livelib.ru/boocover/1002003682/140/756f/Dzhordzh_R._R._Martin__Burya_mechej.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002698119-a-zori-zdes-tihie-vasilev-boris-lvovich",
+        "name": "А зори здесь тихие...",
+        "shortAuthor": "Васильев Борис Львович",
+        "linkAuthor": "https://www.livelib.ru/author/5436-boris-vasilev",
+        "imgPath": "https://i.livelib.ru/boocover/1002698119/140/395b/Vasilev_Boris_Lvovich__A_zori_zdes_tihie....jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000009619-unesennye-vetrom-kniga-1-margaret-mitchell",
+        "name": "Унесенные ветром. Книга 1",
+        "shortAuthor": "Маргарет Митчелл",
+        "linkAuthor": "https://www.livelib.ru/author/3828-margaret-mitchell",
+        "imgPath": "https://j.livelib.ru/boocover/1000009619/140/ba83/Margaret_Mitchell__Unesennye_vetrom._Kniga_1.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000210238-krestnyj-otets-mario-pyuzo",
+        "name": "Крестный отец",
+        "shortAuthor": "Марио Пьюзо",
+        "linkAuthor": "https://www.livelib.ru/author/106120-mario-pyuzo",
+        "imgPath": "https://i.livelib.ru/boocover/1000210238/140/ce6b/Mario_Pyuzo__Krestnyj_otets.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001466685-vlastelin-kolets-sbornik-dzhon-ronald-ruel-tolkin",
+        "name": "Властелин колец (сборник)",
+        "shortAuthor": "Джон Роналд Руэл Толкин",
+        "linkAuthor": "https://www.livelib.ru/author/166382-dzhon-ronald-ruel-tolkin",
+        "imgPath": "https://j.livelib.ru/boocover/1001466685/140/ed3a/Dzhon_Ronald_Ruel_Tolkin__Vlastelin_kolets_sbornik.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002019666-tsvety-dlya-eldzhernona-deniel-kiz",
+        "name": "Цветы для Элджернона",
+        "shortAuthor": "Дэниел Киз",
+        "linkAuthor": "https://www.livelib.ru/author/105418-deniel-kiz",
+        "imgPath": "https://i.livelib.ru/boocover/1002019666/140/bf32/Deniel_Kiz__Tsvety_dlya_Eldzhernona.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000465228-zavtra-byla-vojna-boris-vasilev",
+        "name": "Завтра была война",
+        "shortAuthor": "Борис Васильев",
+        "linkAuthor": "https://www.livelib.ru/author/5436-boris-vasilev",
+        "imgPath": "https://i.livelib.ru/boocover/1000465228/140/5b0b/Boris_Vasilev__Zavtra_byla_vojna.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000203893-desyat-negrityat-agata-kristi",
+        "name": "Десять негритят",
+        "shortAuthor": "Агата Кристи",
+        "linkAuthor": "https://www.livelib.ru/author/1781-agata-kristi",
+        "imgPath": "https://i.livelib.ru/boocover/1000203893/140/796d/Agata_Kristi__Desyat_negrityat.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001536393-v-spiskah-ne-znachilsya-boris-vasilev",
+        "name": "В списках не значился",
+        "shortAuthor": "Борис Васильев",
+        "linkAuthor": "https://www.livelib.ru/author/5436-boris-vasilev",
+        "imgPath": "https://j.livelib.ru/boocover/1001536393/140/3e78/Boris_Vasilev__V_spiskah_ne_znachilsya.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002325552-ubit-peresmeshnika-harper-li",
+        "name": "Убить пересмешника",
+        "shortAuthor": "Харпер Ли",
+        "linkAuthor": "https://www.livelib.ru/author/121973-harper-li",
+        "imgPath": "https://j.livelib.ru/boocover/1002325552/140/1d41/Harper_Li__Ubit_peresmeshnika.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002179956-deniskiny-rasskazy-sbornik-viktor-dragunskij",
+        "name": "Денискины рассказы (сборник)",
+        "shortAuthor": "Виктор Драгунский",
+        "linkAuthor": "https://www.livelib.ru/author/468-viktor-dragunskij",
+        "imgPath": "https://j.livelib.ru/boocover/1002179956/140/6ed8/Viktor_Dragunskij__Deniskiny_rasskazy_sbornik.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001550676-master-i-margarita-mihail-bulgakov",
+        "name": "Мастер и Маргарита",
+        "shortAuthor": "Михаил Булгаков",
+        "linkAuthor": "https://www.livelib.ru/author/408-mihail-bulgakov",
+        "imgPath": "https://j.livelib.ru/boocover/1001550676/140/46e3/Mihail_Bulgakov__Master_i_Margarita.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001445982-pobeg-iz-shoushenka-stiven-king",
+        "name": "Побег из Шоушенка",
+        "shortAuthor": "Стивен Кинг",
+        "linkAuthor": "https://www.livelib.ru/author/48-stiven-king",
+        "imgPath": "https://j.livelib.ru/boocover/1001445982/140/3a2a/Stiven_King__Pobeg_iz_Shoushenka.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002063714-tri-tovarischa-remark-erih-mariya",
+        "name": "Три товарища",
+        "shortAuthor": "Ремарк Эрих Мария",
+        "linkAuthor": "https://www.livelib.ru/author/620-erih-mariya-remark",
+        "imgPath": "https://i.livelib.ru/boocover/1002063714/140/ad8e/Remark_Erih_Mariya__Tri_tovarischa.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002277762-sobaka-baskervilej-artur-konan-dojl",
+        "name": "Собака Баскервилей",
+        "shortAuthor": "Артур Конан Дойл",
+        "linkAuthor": "https://www.livelib.ru/author/103808-artur-konan-dojl",
+        "imgPath": "https://i.livelib.ru/boocover/1002277762/140/fee5/Artur_Konan_Dojl__Sobaka_Baskervilej.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001466286-o-vseh-sozdaniyah-bolshih-i-malyh-dzhejms-herriot",
+        "name": "О всех созданиях - больших и малых",
+        "shortAuthor": "Джеймс Хэрриот",
+        "linkAuthor": "https://www.livelib.ru/author/188293-dzhejms-herriot",
+        "imgPath": "https://j.livelib.ru/boocover/1001466286/140/ed3a/Dzhejms_Herriot__O_vseh_sozdaniyah__bolshih_i_malyh.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002131181-knizhnyj-vor-markus-zusak",
+        "name": "Книжный вор",
+        "shortAuthor": "Маркус Зусак",
+        "linkAuthor": "https://www.livelib.ru/author/166428-markus-zusak",
+        "imgPath": "https://i.livelib.ru/boocover/1002131181/140/779a/Markus_Zusak__Knizhnyj_vor.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000730276-zapiski-yunogo-vracha-sbornik-mihail-bulgakov",
+        "name": "Записки юного врача (сборник)",
+        "shortAuthor": "Михаил Булгаков",
+        "linkAuthor": "https://www.livelib.ru/author/408-mihail-bulgakov",
+        "imgPath": "https://i.livelib.ru/boocover/1000730276/140/26ae/Mihail_Bulgakov__Zapiski_yunogo_vracha_sbornik.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002556487-dvenadtsat-stulev-ilya-ilf-evgenij-petrov",
+        "name": "Двенадцать стульев",
+        "shortAuthor": "Илья Ильф, Евгений Петров",
+        "linkAuthor": "https://www.livelib.ru/author/10293-ilya-ilf-evgenij-petrov",
+        "imgPath": "https://j.livelib.ru/boocover/1002556487/140/5df1/Ilya_Ilf_Evgenij_Petrov__Dvenadtsat_stulev.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002700596-na-zapadnom-fronte-bez-peremen-erih-mariya-remark",
+        "name": "На западном фронте без перемен",
+        "shortAuthor": "Эрих Мария Ремарк",
+        "linkAuthor": "https://www.livelib.ru/author/620-erih-mariya-remark",
+        "imgPath": "https://i.livelib.ru/boocover/1002700596/140/b787/Erih_Mariya_Remark__Na_zapadnom_fronte_bez_peremen.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002120504-malenkij-prints-antuan-de-sentekzyuperi",
+        "name": "Маленький принц",
+        "shortAuthor": "Антуан де Сент-Экзюпери",
+        "linkAuthor": "https://www.livelib.ru/author/3327-antuan-de-sentekzyuperi",
+        "imgPath": "https://i.livelib.ru/boocover/1002120504/140/6b74/Antuan_de_SentEkzyuperi__Malenkij_prints.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002077673-dva-kapitana-v-2-tomah-komplekt-iz-2-knig-veniamin-kaverin",
+        "name": "Два капитана. В 2 томах (комплект из 2 книг)",
+        "shortAuthor": "Вениамин Каверин",
+        "linkAuthor": "https://www.livelib.ru/author/1575-veniamin-kaverin",
+        "imgPath": "https://j.livelib.ru/boocover/1002077673/140/7426/Veniamin_Kaverin__Dva_kapitana._V_2_tomah_komplekt_iz_2_knig.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001449815-hodyachij-zamok-diana-uinn-dzhons",
+        "name": "Ходячий замок",
+        "shortAuthor": "Диана Уинн Джонс",
+        "linkAuthor": "https://www.livelib.ru/author/103100-diana-uinn-dzhons",
+        "imgPath": "https://i.livelib.ru/boocover/1001449815/140/9247/Diana_Uinn_Dzhons__Hodyachij_zamok.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002067951-zhazhda-zhizni-irving-stoun",
+        "name": "Жажда жизни",
+        "shortAuthor": "Ирвинг Стоун",
+        "linkAuthor": "https://www.livelib.ru/author/179701-irving-stoun",
+        "imgPath": "https://i.livelib.ru/boocover/1002067951/140/cead/Irving_Stoun__Zhazhda_zhizni.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001947454-volshebnik-izumrudnogo-goroda-aleksandr-volkov",
+        "name": "Волшебник Изумрудного города",
+        "shortAuthor": "Александр Волков",
+        "linkAuthor": "https://www.livelib.ru/author/110062-aleksandr-volkov",
+        "imgPath": "https://j.livelib.ru/boocover/1001947454/140/9e1a/Aleksandr_Volkov__Volshebnik_Izumrudnogo_goroda.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002596460-gordost-i-predubezhdenie-dzhejn-ostin",
+        "name": "Гордость и предубеждение",
+        "shortAuthor": "Джейн Остин",
+        "linkAuthor": "https://www.livelib.ru/author/107834-dzhejn-ostin",
+        "imgPath": "https://j.livelib.ru/boocover/1002596460/140/bc38/Dzhejn_Ostin__Gordost_i_predubezhdenie.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002002378-otverzhennye-viktor-gyugo",
+        "name": "Отверженные",
+        "shortAuthor": "Виктор Гюго",
+        "linkAuthor": "https://www.livelib.ru/author/2356-viktor-gyugo",
+        "imgPath": "https://i.livelib.ru/boocover/1002002378/140/c226/Viktor_Gyugo__Otverzhennye.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000116701-dary-volhvov-sbornik-o-genri",
+        "name": "Дары волхвов (сборник)",
+        "shortAuthor": "О. Генри",
+        "linkAuthor": "https://www.livelib.ru/author/11278-o-genri",
+        "imgPath": "https://i.livelib.ru/boocover/1000116701/140/9c42/O._Genri__Dary_volhvov_sbornik.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001259179-iskra-zhizni-erih-mariya-remark",
+        "name": "Искра жизни",
+        "shortAuthor": "Эрих Мария Ремарк",
+        "linkAuthor": "https://www.livelib.ru/author/620-erih-mariya-remark",
+        "imgPath": "https://j.livelib.ru/boocover/1001259179/140/bd2a/Erih_Mariya_Remark__Iskra_zhizni.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001996483-ubijstvo-v-vostochnom-ekspresse-kristi-a",
+        "name": "Убийство в \"Восточном экспрессе\"",
+        "shortAuthor": "Кристи А.",
+        "linkAuthor": "https://www.livelib.ru/author/1781-agata-kristi",
+        "imgPath": "https://j.livelib.ru/boocover/1001996483/140/b5fd/Kristi_A.__Ubijstvo_v_quotVostochnom_ekspressequot.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002310438-belyj-bim-chernoe-uho-gavriil-troepolskij",
+        "name": "Белый Бим Черное ухо",
+        "shortAuthor": "Гавриил Троепольский",
+        "linkAuthor": "https://www.livelib.ru/author/7884-gavriil-troepolskij",
+        "imgPath": "https://i.livelib.ru/boocover/1002310438/140/fff9/Gavriil_Troepolskij__Belyj_Bim_Chernoe_uho.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000750889-tysyacha-siyayuschih-solnts-haled-hossejni",
+        "name": "Тысяча сияющих солнц",
+        "shortAuthor": "Халед Хоссейни",
+        "linkAuthor": "https://www.livelib.ru/author/215690-haled-hossejni",
+        "imgPath": "https://i.livelib.ru/boocover/1000750889/140/ebd9/Haled_Hossejni__Tysyacha_siyayuschih_solnts.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001506883-112263-stiven-king",
+        "name": "11/22/63",
+        "shortAuthor": "Стивен Кинг",
+        "linkAuthor": "https://www.livelib.ru/author/48-stiven-king",
+        "imgPath": "https://j.livelib.ru/boocover/1001506883/140/2d2c/Stiven_King__112263.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002081481-tainstvennyj-ostrov-zhyul-vern",
+        "name": "Таинственный остров",
+        "shortAuthor": "Жюль Верн",
+        "linkAuthor": "https://www.livelib.ru/author/4668-zhyul-vern",
+        "imgPath": "https://j.livelib.ru/boocover/1002081481/140/9f0d/Zhyul_Vern__Tainstvennyj_ostrov.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002708291-martin-iden-dzhek-london",
+        "name": "Мартин Иден",
+        "shortAuthor": "Джек Лондон",
+        "linkAuthor": "https://www.livelib.ru/author/2082-dzhek-london",
+        "imgPath": "https://j.livelib.ru/boocover/1002708291/140/0105/Dzhek_London__Martin_Iden.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001262943-bratya-karamazovy-fedor-dostoevskij",
+        "name": "Братья Карамазовы",
+        "shortAuthor": "Федор Достоевский",
+        "linkAuthor": "https://www.livelib.ru/author/264-fjodor-dostoevskij",
+        "imgPath": "https://j.livelib.ru/boocover/1001262943/140/465d/Fedor_Dostoevskij__Bratya_Karamazovy.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001263005-almaznaya-kolesnitsa-boris-akunin",
+        "name": "Алмазная колесница",
+        "shortAuthor": "Борис Акунин",
+        "linkAuthor": "https://www.livelib.ru/author/173873-boris-akunin",
+        "imgPath": "https://i.livelib.ru/boocover/1001263005/140/465d/Boris_Akunin__Almaznaya_kolesnitsa.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001093818-tjomnaya-storona-vershitel-sbornik-maks-fraj",
+        "name": "Тёмная сторона (Вершитель) (сборник)",
+        "shortAuthor": "Макс Фрай",
+        "linkAuthor": "https://www.livelib.ru/author/102797-maks-fraj",
+        "imgPath": "https://i.livelib.ru/boocover/1001093818/140/1b9a/Maks_Fraj__Tjomnaya_storona_Vershitel_sbornik.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002020819-priklyucheniya-emilya-iz-ljonnebergi-astrid-lindgren",
+        "name": "Приключения Эмиля из Лённеберги",
+        "shortAuthor": "Астрид Линдгрен",
+        "linkAuthor": "https://www.livelib.ru/author/7894-astrid-lindgren",
+        "imgPath": "https://i.livelib.ru/boocover/1002020819/140/e27d/Astrid_Lindgren__Priklyucheniya_Emilya_iz_Ljonnebergi.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001616125-mech-prednaznacheniya-sbornik-andzhej-sapkovskij",
+        "name": "Меч Предназначения (сборник)",
+        "shortAuthor": "Анджей Сапковский",
+        "linkAuthor": "https://www.livelib.ru/author/1042-andzhej-sapkovskij",
+        "imgPath": "https://j.livelib.ru/boocover/1001616125/140/a1cb/Andzhej_Sapkovskij__Mech_Prednaznacheniya_sbornik.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002207233-hobbit-dzh-r-r-tolkin",
+        "name": "Хоббит",
+        "shortAuthor": "Дж. Р. Р. Толкин",
+        "linkAuthor": "https://www.livelib.ru/author/166382-dzhon-ronald-ruel-tolkin",
+        "imgPath": "https://i.livelib.ru/boocover/1002207233/140/62f1/Dzh._R._R._Tolkin__Hobbit.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002134396-belyj-klyk-dzhek-london",
+        "name": "Белый Клык",
+        "shortAuthor": "Джек Лондон",
+        "linkAuthor": "https://www.livelib.ru/author/2082-dzhek-london",
+        "imgPath": "https://i.livelib.ru/boocover/1002134396/140/d868/Dzhek_London__Belyj_Klyk.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002528169-nad-kukushkinym-gnezdom-ken-kizi",
+        "name": "Над кукушкиным гнездом",
+        "shortAuthor": "Кен Кизи",
+        "linkAuthor": "https://www.livelib.ru/author/182918-ken-kizi",
+        "imgPath": "https://i.livelib.ru/boocover/1002528169/140/440b/Ken_Kizi__Nad_kukushkinym_gnezdom.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002090039-vsjo-o-mumitrollyah-povestiskazki-tuve-yansson",
+        "name": "Всё о муми-троллях: повести-сказки",
+        "shortAuthor": "Туве Янссон",
+        "linkAuthor": "https://www.livelib.ru/author/13307-tuve-yansson",
+        "imgPath": "https://j.livelib.ru/boocover/1002090039/140/1977/Tuve_Yansson__Vsjo_o_mumitrollyah_povestiskazki.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001235698-vremya-zhit-i-vremya-umirat-erih-mariya-remark",
+        "name": "Время жить и время умирать",
+        "shortAuthor": "Эрих Мария Ремарк",
+        "linkAuthor": "https://www.livelib.ru/author/620-erih-mariya-remark",
+        "imgPath": "https://i.livelib.ru/boocover/1001235698/140/a581/Erih_Mariya_Remark__Vremya_zhit_i_vremya_umirat.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001561330-dyadya-fedor-pes-i-kot-sbornik-e-uspenskij",
+        "name": "Дядя Федор, пес и кот (сборник)",
+        "shortAuthor": "Э. Успенский",
+        "linkAuthor": "https://www.livelib.ru/author/7758-eduard-uspenskij",
+        "imgPath": "https://i.livelib.ru/boocover/1001561330/140/c0fb/E._Uspenskij__Dyadya_Fedor_pes_i_kot_sbornik.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002658148-poyuschie-v-ternovnike-kolin-makkalou",
+        "name": "Поющие в терновнике",
+        "shortAuthor": "Колин Маккалоу",
+        "linkAuthor": "https://www.livelib.ru/author/16486-kolin-makkalou",
+        "imgPath": "https://i.livelib.ru/boocover/1002658148/140/d7c0/Kolin_Makkalou__Poyuschie_v_ternovnike.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002062846-beguschij-za-vetrom-haled-hossejni",
+        "name": "Бегущий за ветром",
+        "shortAuthor": "Халед Хоссейни",
+        "linkAuthor": "https://www.livelib.ru/author/215690-haled-hossejni",
+        "imgPath": "https://j.livelib.ru/boocover/1002062846/140/a014/Haled_Hossejni__Beguschij_za_vetrom.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002617818-zolotoj-telenok-ilya-ilf-evgenij-petrov",
+        "name": "Золотой теленок",
+        "shortAuthor": "Илья Ильф, Евгений Петров",
+        "linkAuthor": "https://www.livelib.ru/author/10293-ilya-ilf-evgenij-petrov",
+        "imgPath": "https://i.livelib.ru/boocover/1002617818/140/6fd5/Ilya_Ilf_Evgenij_Petrov__Zolotoj_telenok.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001543508-malysh-i-karlson-kotoryj-zhivjot-na-kryshe-lindgren-a",
+        "name": "Малыш и Карлсон, который живёт на крыше",
+        "shortAuthor": "Линдгрен А.",
+        "linkAuthor": "https://www.livelib.ru/author/7894-astrid-lindgren",
+        "imgPath": "https://i.livelib.ru/boocover/1001543508/140/6361/Lindgren_A.__Malysh_i_Karlson_kotoryj_zhivjot_na_kryshe.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001172595-vafelnoe-serdtse-mariya-parr",
+        "name": "Вафельное сердце",
+        "shortAuthor": "Мария Парр",
+        "linkAuthor": "https://www.livelib.ru/author/229703-mariya-parr",
+        "imgPath": "https://j.livelib.ru/boocover/1001172595/140/7811/Mariya_Parr__Vafelnoe_serdtse.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000517313-vedmahranitelnitsa-olga-gromyko",
+        "name": "Ведьма-хранительница",
+        "shortAuthor": "Ольга Громыко",
+        "linkAuthor": "https://www.livelib.ru/author/26340-olga-gromyko",
+        "imgPath": "https://i.livelib.ru/boocover/1000517313/140/3924/Olga_Gromyko__Vedmahranitelnitsa.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001579601-vtoraya-zhizn-uve-fredrik-bakman",
+        "name": "Вторая жизнь Уве",
+        "shortAuthor": "Фредрик Бакман",
+        "linkAuthor": "https://www.livelib.ru/author/518692-fredrik-bakman",
+        "imgPath": "https://j.livelib.ru/boocover/1001579601/140/7a7b/Fredrik_Bakman__Vtoraya_zhizn_Uve.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002257469-bremya-strastej-chelovecheskih-uilyam-somerset-moem",
+        "name": "Бремя страстей человеческих",
+        "shortAuthor": "Уильям Сомерсет Моэм",
+        "linkAuthor": "https://www.livelib.ru/author/122-uilyam-somerset-moem",
+        "imgPath": "https://j.livelib.ru/boocover/1002257469/140/156a/Uilyam_Somerset_Moem__Bremya_strastej_chelovecheskih.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000432960-pro-fedotastreltsa-udalogo-molodtsa-sbornik-leonid-filatov",
+        "name": "Про Федота-стрельца, удалого молодца. Сборник",
+        "shortAuthor": "Леонид Филатов",
+        "linkAuthor": "https://www.livelib.ru/author/122271-leonid-filatov",
+        "imgPath": "https://i.livelib.ru/boocover/1000432960/140/8f36/Leonid_Filatov__Pro_Fedotastreltsa_udalogo_molodtsa._Sbornik.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002504187-dzhejn-ejr-sharlotta-bronte",
+        "name": "Джейн Эйр",
+        "shortAuthor": "Шарлотта Бронте",
+        "linkAuthor": "https://www.livelib.ru/author/4389-sharlotta-bronte",
+        "imgPath": "https://j.livelib.ru/boocover/1002504187/140/b877/Sharlotta_Bronte__Dzhejn_Ejr.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002605286-idiot-fedor-mihajlovich-dostoevskij",
+        "name": "Идиот",
+        "shortAuthor": "Федор Михайлович Достоевский",
+        "linkAuthor": "https://www.livelib.ru/author/264-fjodor-dostoevskij",
+        "imgPath": "https://j.livelib.ru/boocover/1002605286/140/acfa/Fedor_Mihajlovich_Dostoevskij__Idiot.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001552510-zamok-broudi-archibald-dzhozef-kronin",
+        "name": "Замок Броуди",
+        "shortAuthor": "Арчибальд Джозеф Кронин",
+        "linkAuthor": "https://www.livelib.ru/author/30081-archibald-kronin",
+        "imgPath": "https://i.livelib.ru/boocover/1001552510/140/7dbd/Archibald_Dzhozef_Kronin__Zamok_Broudi.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001440002-sudba-cheloveka-mihail-sholohov",
+        "name": "Судьба человека",
+        "shortAuthor": "Михаил Шолохов",
+        "linkAuthor": "https://www.livelib.ru/author/12566-mihail-sholohov",
+        "imgPath": "https://i.livelib.ru/boocover/1001440002/140/8cf5/Mihail_Sholohov__Sudba_cheloveka.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002120536-tainstvennaya-istoriya-billi-milligana-deniel-kiz",
+        "name": "Таинственная история Билли Миллигана",
+        "shortAuthor": "Дэниел Киз",
+        "linkAuthor": "https://www.livelib.ru/author/105418-deniel-kiz",
+        "imgPath": "https://j.livelib.ru/boocover/1002120536/140/f896/Deniel_Kiz__Tainstvennaya_istoriya_Billi_Milligana.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002281161-1984-dzhordzh-oruell",
+        "name": "1984",
+        "shortAuthor": "Джордж Оруэлл",
+        "linkAuthor": "https://www.livelib.ru/author/18629-dzhordzh-oruell",
+        "imgPath": "https://j.livelib.ru/boocover/1002281161/140/ac3b/Dzhordzh_Oruell__1984.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001100430-pollianna-elinor-porter",
+        "name": "Поллианна",
+        "shortAuthor": "Элинор Портер",
+        "linkAuthor": "https://www.livelib.ru/author/7870-elinor-porter",
+        "imgPath": "https://i.livelib.ru/boocover/1001100430/140/5fa1/Elinor_Porter__Pollianna.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000566760-chasodei-chasovoe-imya-natalya-scherba",
+        "name": "Часодеи. Часовое имя",
+        "shortAuthor": "Наталья Щерба",
+        "linkAuthor": "https://www.livelib.ru/author/229446-natalya-scherba",
+        "imgPath": "https://i.livelib.ru/boocover/1000566760/140/fc2e/Natalya_Scherba__Chasodei._Chasovoe_imya.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000953618-korolek-ptichka-pevchaya-reshad-nuri-gyuntekin",
+        "name": "Королек - птичка певчая",
+        "shortAuthor": "Решад Нури Гюнтекин",
+        "linkAuthor": "https://www.livelib.ru/author/18630-reshad-nuri-gyuntekin",
+        "imgPath": "https://j.livelib.ru/boocover/1000953618/140/e276/Reshad_Nuri_Gyuntekin__Korolek__ptichka_pevchaya.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002621320-aeroport-hejli-a",
+        "name": "Аэропорт",
+        "shortAuthor": "Хейли А.",
+        "linkAuthor": "https://www.livelib.ru/author/124-artur-hejli",
+        "imgPath": "https://i.livelib.ru/boocover/1002621320/140/4e86/Hejli_A.__Aeroport.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001286429-povest-o-nastoyaschem-cheloveke-boris-polevoj",
+        "name": "Повесть о настоящем человеке",
+        "shortAuthor": "Борис Полевой",
+        "linkAuthor": "https://www.livelib.ru/author/113329-boris-polevoj",
+        "imgPath": "https://i.livelib.ru/boocover/1001286429/140/a75e/Boris_Polevoj__Povest_o_nastoyaschem_cheloveke.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000529708-dary-volhvov-sbornik-o-genri",
+        "name": "Дары волхвов (сборник)",
+        "shortAuthor": "О. Генри",
+        "linkAuthor": "https://www.livelib.ru/author/11278-o-genri",
+        "imgPath": "https://i.livelib.ru/boocover/1000529708/140/4d56/O._Genri__Dary_volhvov_sbornik.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002115206-peppi-dlinnyjchulok-astrid-lindgren",
+        "name": "Пеппи Длинныйчулок",
+        "shortAuthor": "Астрид Линдгрен",
+        "linkAuthor": "https://www.livelib.ru/author/7894-astrid-lindgren",
+        "imgPath": "https://j.livelib.ru/boocover/1002115206/140/949d/Astrid_Lindgren__Peppi_Dlinnyjchulok.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001480371-vinnipuh-i-vsevsevse-alan-aleksander-miln",
+        "name": "Винни-Пух и все-все-все",
+        "shortAuthor": "Алан Александер Милн",
+        "linkAuthor": "https://www.livelib.ru/author/125814-alan-miln",
+        "imgPath": "https://j.livelib.ru/boocover/1001480371/140/ae2e/Alan_Aleksander_Miln__VinniPuh_i_vsevsevse.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002688467-tri-mushketera-aleksandr-dyuma",
+        "name": "Три мушкетера",
+        "shortAuthor": "Александр Дюма",
+        "linkAuthor": "https://www.livelib.ru/author/55-aleksandr-dyuma",
+        "imgPath": "https://j.livelib.ru/boocover/1002688467/140/06bb/Aleksandr_Dyuma__Tri_mushketera.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002040077-dom-v-kotorom-mariam-petrosyan",
+        "name": "Дом, в котором...",
+        "shortAuthor": "Мариам Петросян",
+        "linkAuthor": "https://www.livelib.ru/author/232818-mariam-petrosyan",
+        "imgPath": "https://j.livelib.ru/boocover/1002040077/140/4207/Mariam_Petrosyan__Dom_v_kotorom....jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001425286-mizeri-stiven-king",
+        "name": "Мизери",
+        "shortAuthor": "Стивен Кинг",
+        "linkAuthor": "https://www.livelib.ru/author/48-stiven-king",
+        "imgPath": "https://j.livelib.ru/boocover/1001425286/140/8fb8/Stiven_King__Mizeri.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001412260-kamo-gryadeshi-genrik-senkevich",
+        "name": "Камо грядеши",
+        "shortAuthor": "Генрик Сенкевич",
+        "linkAuthor": "https://www.livelib.ru/author/6937-genrik-senkevich",
+        "imgPath": "https://j.livelib.ru/boocover/1001412260/140/68b3/Genrik_Senkevich__Kamo_gryadeshi.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000949795-hraniteli-absolyutnoe-izdanie-alan-mur-dejv-gibbons",
+        "name": "Хранители. Абсолютное издание",
+        "shortAuthor": "Алан Мур, Дэйв Гиббонс",
+        "linkAuthor": "https://www.livelib.ru/author/235272-alan-mur-dejv-gibbons",
+        "imgPath": "https://j.livelib.ru/boocover/1000949795/140/c4b4/Alan_Mur_Dejv_Gibbons__Hraniteli._Absolyutnoe_izdanie.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001583341-do-vstrechi-s-toboj-dzhodzho-mojes",
+        "name": "До встречи с тобой",
+        "shortAuthor": "Джоджо Мойес",
+        "linkAuthor": "https://www.livelib.ru/author/345193-dzhodzho-mojes",
+        "imgPath": "https://j.livelib.ru/boocover/1001583341/140/1bf7/Dzhodzho_Mojes__Do_vstrechi_s_toboj.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001245417-u-vojny-ne-zhenskoe-litso-svetlana-aleksievich",
+        "name": "У войны не женское лицо",
+        "shortAuthor": "Светлана Алексиевич",
+        "linkAuthor": "https://www.livelib.ru/author/194455-svetlana-aleksievich",
+        "imgPath": "https://j.livelib.ru/boocover/1001245417/140/188e/Svetlana_Aleksievich__U_vojny_ne_zhenskoe_litso.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001475296-moj-dedushka-byl-vishnej-andzhela-nanetti",
+        "name": "Мой дедушка был вишней",
+        "shortAuthor": "Анджела Нанетти",
+        "linkAuthor": "https://www.livelib.ru/author/300015-andzhela-nanetti",
+        "imgPath": "https://i.livelib.ru/boocover/1001475296/140/7846/Andzhela_Nanetti__Moj_dedushka_byl_vishnej.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002143646-lyudi-kotorye-vsegda-so-mnoj-narine-abgaryan",
+        "name": "Люди, которые всегда со мной",
+        "shortAuthor": "Наринэ Абгарян",
+        "linkAuthor": "https://www.livelib.ru/author/303500-narine-abgaryan",
+        "imgPath": "https://j.livelib.ru/boocover/1002143646/140/38a4/Narine_Abgaryan__Lyudi_kotorye_vsegda_so_mnoj.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001950364-vozlyubi-blizhnego-svoego-erih-mariya-remark",
+        "name": "Возлюби ближнего своего",
+        "shortAuthor": "Эрих Мария Ремарк",
+        "linkAuthor": "https://www.livelib.ru/author/620-erih-mariya-remark",
+        "imgPath": "https://i.livelib.ru/boocover/1001950364/140/6b9d/Erih_Mariya_Remark__Vozlyubi_blizhnego_svoego.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002045756-piknik-na-obochine-arkadij-i-boris-strugatskie",
+        "name": "Пикник на обочине",
+        "shortAuthor": "Аркадий и Борис Стругацкие",
+        "linkAuthor": "https://www.livelib.ru/author/102587-arkadij-i-boris-strugatskie",
+        "imgPath": "https://i.livelib.ru/boocover/1002045756/140/d734/Arkadij_i_Boris_Strugatskie__Piknik_na_obochine.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001440007-vy-konechno-shutite-mister-fejnman-richard-fejnman",
+        "name": "Вы, конечно, шутите, мистер Фейнман!",
+        "shortAuthor": "Ричард Фейнман",
+        "linkAuthor": "https://www.livelib.ru/author/180342-richard-fejnman",
+        "imgPath": "https://j.livelib.ru/boocover/1001440007/140/8cf5/Richard_Fejnman__Vy_konechno_shutite_mister_Fejnman.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001173596-zulejha-otkryvaet-glaza-guzel-yahina",
+        "name": "Зулейха открывает глаза",
+        "shortAuthor": "Гузель Яхина",
+        "linkAuthor": "https://www.livelib.ru/author/570002-guzel-yahina",
+        "imgPath": "https://i.livelib.ru/boocover/1001173596/140/ad16/Guzel_Yahina__Zulejha_otkryvaet_glaza.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000999395-skotnyj-dvor-dzhordzh-oruell",
+        "name": "Скотный двор",
+        "shortAuthor": "Джордж Оруэлл",
+        "linkAuthor": "https://www.livelib.ru/author/18629-dzhordzh-oruell",
+        "imgPath": "https://i.livelib.ru/boocover/1000999395/140/fec6/Dzhordzh_Oruell__Skotnyj_dvor.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002145254-dinka-valentina-oseeva",
+        "name": "Динка",
+        "shortAuthor": "Валентина Осеева",
+        "linkAuthor": "https://www.livelib.ru/author/25344-valentina-oseeva",
+        "imgPath": "https://i.livelib.ru/boocover/1002145254/140/b6a4/Valentina_Oseeva__Dinka.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000955584-chernyj-obelisk-erih-mariya-remark",
+        "name": "Черный обелиск",
+        "shortAuthor": "Эрих Мария Ремарк",
+        "linkAuthor": "https://www.livelib.ru/author/620-erih-mariya-remark",
+        "imgPath": "https://i.livelib.ru/boocover/1000955584/140/e8ae/Erih_Mariya_Remark__Chernyj_obelisk.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001292253-nesvyatye-svyatye-i-drugie-rasskazy-arhimandrit-tihon-shevkunov",
+        "name": "«Несвятые святые» и другие рассказы",
+        "shortAuthor": "Архимандрит Тихон (Шевкунов)",
+        "linkAuthor": "https://www.livelib.ru/author/22488-arhimandrit-tihon",
+        "imgPath": "https://i.livelib.ru/boocover/1001292253/140/bfef/Arhimandrit_Tihon_Shevkunov__Nesvyatye_svyatye_i_drugie_rasskazy.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002701469-ten-vetra-karlos-ruis-safon",
+        "name": "Тень ветра",
+        "shortAuthor": "Карлос Руис Сафон",
+        "linkAuthor": "https://www.livelib.ru/author/157440-karlos-ruis-safon",
+        "imgPath": "https://i.livelib.ru/boocover/1002701469/140/7c05/Karlos_Ruis_Safon__Ten_vetra.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001235486-manyunya-narine-abgaryan",
+        "name": "Манюня",
+        "shortAuthor": "Наринэ Абгарян",
+        "linkAuthor": "https://www.livelib.ru/author/303500-narine-abgaryan",
+        "imgPath": "https://i.livelib.ru/boocover/1001235486/140/a581/Narine_Abgaryan__Manyunya.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1000318282-hroniki-narnii-sbornik-klajv-lyuis",
+        "name": "Хроники Нарнии (сборник)",
+        "shortAuthor": "Клайв Льюис",
+        "linkAuthor": "https://www.livelib.ru/author/25673-klajv-stejplz-lyuis",
+        "imgPath": "https://j.livelib.ru/boocover/1000318282/140/41f7/Klajv_Lyuis__Hroniki_Narnii_sbornik.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001287814-devushka-s-tatuirovkoj-drakona-stig-larsson",
+        "name": "Девушка с татуировкой дракона",
+        "shortAuthor": "Стиг Ларссон",
+        "linkAuthor": "https://www.livelib.ru/author/234685-stig-larsson",
+        "imgPath": "https://j.livelib.ru/boocover/1001287814/140/aa15/Stig_Larsson__Devushka_s_tatuirovkoj_drakona.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002472115-izvlechenie-troih-stiven-king",
+        "name": "Извлечение троих",
+        "shortAuthor": "Стивен Кинг",
+        "linkAuthor": "https://www.livelib.ru/author/48-stiven-king",
+        "imgPath": "https://j.livelib.ru/boocover/1002472115/140/b3ea/Stiven_King__Izvlechenie_troih.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1001398875-k-oruzhiyu-k-oruzhiyu-terri-pratchett",
+        "name": "К оружию! К оружию!",
+        "shortAuthor": "Терри Пратчетт",
+        "linkAuthor": "https://www.livelib.ru/author/3710-terri-pratchett",
+        "imgPath": "https://i.livelib.ru/boocover/1001398875/140/ca2a/Terri_Pratchett__K_oruzhiyu_K_oruzhiyu.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002277524-sobache-serdtse-mihail-bulgakov",
+        "name": "Собачье сердце",
+        "shortAuthor": "Михаил Булгаков",
+        "linkAuthor": "https://www.livelib.ru/author/408-mihail-bulgakov",
+        "imgPath": "https://j.livelib.ru/boocover/1002277524/140/420d/Mihail_Bulgakov__Sobache_serdtse.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002325554-marsianskie-hroniki-rej-bredberi",
+        "name": "Марсианские хроники",
+        "shortAuthor": "Рэй Брэдбери",
+        "linkAuthor": "https://www.livelib.ru/author/15152-rej-bredberi",
+        "imgPath": "https://i.livelib.ru/boocover/1002325554/140/261b/Rej_Bredberi__Marsianskie_hroniki.jpg"
+    },
+    {
+        "link": "https://www.livelib.ru/book/1002421150-priklyucheniya-toma-sojera-mark-tven",
+        "name": "Приключения Тома Сойера",
+        "shortAuthor": "Марк Твен",
+        "linkAuthor": "https://www.livelib.ru/author/669-mark-tven",
+        "imgPath": "https://i.livelib.ru/boocover/1002421150/140/0bf1/Mark_Tven__Priklyucheniya_Toma_Sojera.jpg"
+    },
+    {
+        "link": "https://www.livelib.ruundefined",
+        "name": "",
+        "shortAuthor": "",
+        "linkAuthor": "https://www.livelib.ruundefined"
+    }
+]
