@@ -8,7 +8,7 @@ var decode = require('unescape');
 var data = JSON.parse(fs.readFileSync('data.json', 'utf8'));
 
 var q = tress((inputData, callback) => {
-  request(inputData.link, (err, res, body) => {
+  request(inputData.data.link, (err, res, body) => {
     if (err) throw err;
 
     const $ = cheerio.load(body, { decodeEntities: true });
@@ -16,17 +16,20 @@ var q = tress((inputData, callback) => {
     var currentGenres = [];
 
     $('.label-genre').each((index, el) => {
-      currentGenres.push($(this).text());
+      currentGenres.push($(el).text());
     });
+
+    console.log(currentGenres);
+    data[inputData.index].genres = [...currentGenres];
 
     callback();
   });
 });
 
 q.drain = function() {
-  require('fs').writeFileSync('./data.json', JSON.stringify(results, null, 4));
+  require('fs').writeFileSync('./authors.json', JSON.stringify(data, null, 4));
 };
 
 for (var i in data) {
-  q.push(data[i]);
+  q.push({ data: data[i], index: i });
 }
